@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "COLORFUL BOX",
+  "base_artist": "石田耀子",
+  "createdAt": "2025-12-10T11:58:03.312942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "石田燿子",
+      "has_synced": true,
+      "path": "select/01_COLORFUL_BOX_石田燿子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "Ishida Youko",
+      "has_synced": true,
+      "path": "select/02_COLORFUL_BOX_Ishida_Youko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "Yoko Ishida",
+      "has_synced": true,
+      "path": "select/03_COLORFUL_BOX_Yoko_Ishida.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "石田燿子",
+      "has_synced": true,
+      "path": "select/04_COLORFUL_BOX_石田燿子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "Shirobako",
+      "has_synced": true,
+      "path": "select/05_COLORFUL_BOX_Shirobako.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "石田燿子",
+      "has_synced": true,
+      "path": "select/06_COLORFUL_BOX_石田燿子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "COLORFUL BOX",
+      "artist": "Ishida Youko",
+      "has_synced": true,
+      "path": "select/07_COLORFUL_BOX_Ishida_Youko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "COLORFUL BOX (Instrumental)",
+      "artist": "KAYOKO",
+      "has_synced": true,
+      "path": "select/08_COLORFUL_BOX_(Instrumental)_KAYOKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "COLORFUL BOX",
+      "artist": "石田耀子",
+      "has_synced": false,
+      "path": "select/pl_01_COLORFUL_BOX_石田耀子.txt"
+    }
+  ]
+}
